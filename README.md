@@ -6,9 +6,9 @@ Este projeto consiste na resolução de exercícios de Python na plataforma Hack
 ## Description
 This project consists of solving Python exercises on the Hacker Rank platform. Here you will find solutions to challenges in different topics such as basic data types, strings, sets, mathematics, among others. Each topic has a dedicated section with solved exercises, including a brief description of the problem and the Python solution. Use this repository as a reference and learning resource to enhance your Python skills and tackle programming challenges.
 
-## Subjects // Temas
+## Temas // Subjects
 
-- Introduction (done/feito)
+- Introduction (feito/done)
 - Basic Data Types
 - Strings
 - Sets
@@ -25,3 +25,5 @@ This project consists of solving Python exercises on the Hacker Rank platform. H
 - Closures and Decorators
 - Numpy
 - Debugging
+
+[HackerRank](https://www.hackerrank.com).
