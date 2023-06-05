@@ -1,3 +1,5 @@
+#Find the Runner-Up Score! 
+
 n = int(input())
 arr =list(map(int, input().strip().split()))
 
